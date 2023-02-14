@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 ![My Skills](https://skills.thijs.gg/icons?i=js,java,c,cpp,py,html,css,postgres,kotlin,markdown)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nineinchmike21&count_private=true&theme=tokyonight&showicons=true)]()
