@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## About me
 
 
-## Languages and Tools
+## Languages and Tools used in the past:
 ![My Skills](https://skills.thijs.gg/icons?i=js,java,c,cpp,py,html,css,postgres,kotlin,markdown)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nineinchmike21&count_private=true&theme=tokyonight&showicons=true)]()
